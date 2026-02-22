@@ -24,7 +24,7 @@ The dataset contains text reviews labeled as positive or negative.
 
 ##  Files Included
 - SAT.ipynb
-- dataset.csv (if included)
+- dataset.csv
 
 ## 👨‍💻 Author
 Altaf Hosen
